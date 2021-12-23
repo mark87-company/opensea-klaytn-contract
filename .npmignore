@@ -1,0 +1,15 @@
+tests/**
+scripts/**
+caver/**
+**.ts
+!created-codes/**.d.ts
+node_modules/**
+tsconfig.json
+.env
+credential.json
+.prettierignore
+EIP2981-implementation
+build
+test
+truffle-config.js
+credential.json
