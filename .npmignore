@@ -13,3 +13,8 @@ build
 test
 truffle-config.js
 credential.json
+MAS_contracts/**
+.gitmodules
+.vscode/**
+contracts
+renovate.json

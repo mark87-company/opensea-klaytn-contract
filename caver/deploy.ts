@@ -1,12 +1,12 @@
 import "./configDotenv";
 
-import { promises as fs, readFileSync } from "fs";
+import { promises as fs } from "fs";
 import * as path from "path";
 
 import Caver from "caver-js";
 
-import MASTokenJson from "../build/contracts/KIP17Token.json";
-import NFTSalesJson from "../build/contracts/MasSales.json";
+import MASTokenJson from "../build/contracts/MAS.json";
+import NFTSalesJson from "../build/contracts/MAS_Sales.json";
 import { createCode } from "./createCode";
 
 (async () => {
