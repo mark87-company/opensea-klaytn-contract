@@ -25,7 +25,7 @@
   "devDependencies": {
     "@openzeppelin/contracts": "4.4.0",
     "@types/json-stringify-safe": "^5.0.0",
-    "@types/lodash": "4.14.178",
+    "@types/lodash": "4.14.182",
     "@types/node": "16.11.12",
     "@types/websocket": "1.0.4",
     "caver-js": "1.6.5",
