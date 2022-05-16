@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mark87-company/openSeaContract#readme",
   "devDependencies": {
-    "@openzeppelin/contracts": "4.4.0",
+    "@openzeppelin/contracts": "4.6.0",
     "@types/json-stringify-safe": "^5.0.0",
     "@types/lodash": "4.14.178",
     "@types/node": "16.11.12",
