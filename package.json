@@ -28,7 +28,7 @@
     "@types/lodash": "4.14.178",
     "@types/node": "16.11.12",
     "@types/websocket": "1.0.4",
-    "caver-js": "1.6.5",
+    "caver-js": "1.8.2",
     "dotenv": "10.0.0",
     "json-stringify-safe": "5.0.1",
     "truffle": "5.4.24",
